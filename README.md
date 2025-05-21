@@ -103,7 +103,9 @@ Feel free to fork, clone, and submit pull requests. Suggestions and improvements
 ##  Contact
 
 **Developed by**: Satyam Sule  
+
 **Email**: sulesatyam68@gmail.com  
+
 **LinkedIn**: [Satyam Sule](https://www.linkedin.com/in/satyamsule)
 
 
