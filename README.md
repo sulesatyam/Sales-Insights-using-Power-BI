@@ -94,18 +94,14 @@ Performed via Power Query. Key transformation steps:
 
 
 
-##  Contributing
-
-Feel free to fork, clone, and submit pull requests. Suggestions and improvements are always welcome.
-
 
 
 ##  Contact
 
-**Developed by**: Satyam Sule  
+**Developed by**:  Satyam Sule  
 
 **Email**: sulesatyam68@gmail.com  
 
-**LinkedIn**: [Satyam Sule](https://www.linkedin.com/in/satyamsule)
+**LinkedIn**:  www.linkedin.com/in/satyamsule
 
 
